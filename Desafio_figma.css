@@ -86,23 +86,28 @@
   }
 
   .imagem_mulher1 {
-
-    justify-content: center;
-    display: flex;
-    align-items: center;
-    margin-top: 100px;
-    width: 307px;
-    height: 370px ;
+    width: 366.34px;
+    height: 550px ;
     top: 221px;
-    left: 672px;    
+    left: 672px;
+    border: 1px;
+    border-width: thin;
+    border-style: solid;
+    border-color: white;
+    padding: 20px;  
+    margin-bottom: 30px;  
   }
 
 
 .imagem_mulher2 {
 
   margin-left: -100px;
+  width: 307px;
+  height: 370px;
 
 }
+
+
 
 
   
