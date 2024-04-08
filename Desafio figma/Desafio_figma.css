@@ -1,0 +1,59 @@
+.font-family-titulo {
+  font-family: "Nunito", sans-serif;
+  font-weight: 400px;
+  font-style: normal;
+  color: white;
+  width: 150px;
+  height: 35px;
+}
+
+.body {
+  background: #afa96e;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  margin-left: 10px;
+}
+
+@media (max-width:425px) {
+  body {  
+    background-color: #0000ff;
+  }
+}
+
+.imagem {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin-top: 97px;
+}
+
+.logo {
+  width: 150px;
+  height: 35px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+.imagem_mulher1 {
+  width: 366.34px;
+  height: 550px;
+  top: 221px;
+  left: 672px;
+  border: 1px;
+  border-width: thin;
+  border-style: solid;
+  border-color: white;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.imagem_mulher2 {
+  margin-left: -100px;
+  width: 307px;
+  height: 370px;
+}
+
+
+
