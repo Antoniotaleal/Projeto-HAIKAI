@@ -1,0 +1,19 @@
+.body {
+    background: #7C8034;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.imagem_mulher1 {
+    width: 250px;
+    height: 350px;
+    top: 315px;
+    left: 138px;
+    border: 50px;
+    border-radius: 20px;
+    border-width: 1em;
+    border-style: solid;
+    border-color: white;
+    margin-bottom: 30px;
+}
