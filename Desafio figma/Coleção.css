@@ -3,17 +3,52 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    border: 20px;
+    border-radius: 20px;
 }
 
-.imagem_mulher1 {
+.imagem-mulher1 {
     width: 250px;
     height: 350px;
+    border: 20px;
     top: 315px;
-    left: 138px;
-    border: 50px;
-    border-radius: 20px;
-    border-width: 1em;
+    left: 526px;
+    border-width: 1.5em;
     border-style: solid;
     border-color: white;
     margin-bottom: 30px;
+    border-radius: 20px;
+    justify-content: space-between;
+    position: absolute;
+    
+}
+
+.imagem-mulher2 {
+    width: 250px;
+    height: 350px;
+    border: 20px;
+    border-radius: 20px;
+    top: 315px;
+    left: 914px;
+    border-width: 1.5em;
+    border-style: solid;
+    border-color: #F1F5D8;
+    margin-bottom: 30px;
+    justify-content: space-between;
+    position: absolute;
+}
+.imagem-mulher3 {
+    width: 250px;
+    height: 350px;
+    border: 20px;
+    top: 315px;
+    left: 138px;
+    border-width: 1.5em;
+    border-style: solid;
+    border-color: white;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    justify-content: space-between;
+    position: absolute;
+   
 }
