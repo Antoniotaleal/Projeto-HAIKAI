@@ -3,52 +3,64 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    border: 20px;
-    border-radius: 20px;
 }
 
 .imagem-mulher1 {
     width: 250px;
     height: 350px;
     border: 20px;
+    border-radius: 30px;
     top: 315px;
     left: 526px;
-    border-width: 1.5em;
     border-style: solid;
     border-color: white;
     margin-bottom: 30px;
-    border-radius: 20px;
     justify-content: space-between;
     position: absolute;
-    
+    margin-left: 100px;
 }
 
 .imagem-mulher2 {
     width: 250px;
     height: 350px;
     border: 20px;
-    border-radius: 20px;
+    border-radius: 30px; 
     top: 315px;
     left: 914px;
-    border-width: 1.5em;
     border-style: solid;
     border-color: #F1F5D8;
     margin-bottom: 30px;
     justify-content: space-between;
     position: absolute;
+    margin-left: 100px;
 }
+
 .imagem-mulher3 {
     width: 250px;
     height: 350px;
     border: 20px;
+    border-radius: 30px;
     top: 315px;
     left: 138px;
-    border-width: 1.5em;
     border-style: solid;
     border-color: white;
     margin-bottom: 30px;
-    border-radius: 20px;
     justify-content: space-between;
     position: absolute;
-   
+    margin-left: 100px;
+}
+
+.logo {
+    width: 150px;
+    height: 35px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+.logo-kalma {
+    width: 400px;
+    height: 70px;
+    top: 143px;
+    position: absolute;
 }
