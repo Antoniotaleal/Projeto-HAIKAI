@@ -5,19 +5,21 @@
     box-sizing: border-box;
 }
 
-.imagem-mulher1 {
+.imagem {
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    margin-top: 200px;
+    
+}
+
+.imagem-mulher1{
     width: 250px;
     height: 350px;
     border: 20px;
     border-radius: 30px;
-    top: 315px;
-    left: 526px;
     border-style: solid;
     border-color: white;
-    margin-bottom: 30px;
-    justify-content: space-between;
-    position: absolute;
-    margin-left: 100px;
 }
 
 .imagem-mulher2 {
@@ -25,14 +27,8 @@
     height: 350px;
     border: 20px;
     border-radius: 30px; 
-    top: 315px;
-    left: 914px;
     border-style: solid;
     border-color: #F1F5D8;
-    margin-bottom: 30px;
-    justify-content: space-between;
-    position: absolute;
-    margin-left: 100px;
 }
 
 .imagem-mulher3 {
@@ -40,14 +36,8 @@
     height: 350px;
     border: 20px;
     border-radius: 30px;
-    top: 315px;
-    left: 138px;
     border-style: solid;
     border-color: white;
-    margin-bottom: 30px;
-    justify-content: space-between;
-    position: absolute;
-    margin-left: 100px;
 }
 
 .logo {
@@ -63,4 +53,16 @@
     height: 70px;
     top: 143px;
     position: absolute;
+}
+
+.img {
+    width: 100%;
+}
+
+@media (max-width: 800px) {
+    .imagem {
+        display: block;
+        width: 100%;
+        justify-content: space-around;
+    }
 }
