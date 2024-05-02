@@ -1,0 +1,51 @@
+.body {
+    background: #afa96e;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 150px;
+    height: 35px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    margin-right: 20px;
+}
+
+.Sobre_nos {
+    width: 400px;
+    height: 70px;
+    top: 143px;
+    position: absolute;
+    justify-content: space-around;
+}
+
+.imagem {
+    justify-content: start;
+    display: flex;
+}
+
+.Sobre_nos_foto {
+    width: 422.44px;
+    height: 335px;
+    justify-content: space-around;
+    margin-top: 270px;
+    margin-left: 130px;
+}
+
+.texto {
+    width: 469px;
+    height: 336px;
+    position: absolute;
+    top: 255px;
+    left: 701px;
+    font-family: "Nunito", sans-serif;
+    font-size: 24px;
+    font-weight: 400px;
+    font-style: normal;
+    color: white;
+    justify-content: space-around;
+    line-height: 28px;
+}
