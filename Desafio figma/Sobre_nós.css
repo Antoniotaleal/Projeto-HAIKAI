@@ -14,38 +14,40 @@
     margin-right: 20px;
 }
 
-.Sobre_nos {
+.imagem {
+    display: flex;
     width: 400px;
     height: 70px;
     top: 143px;
     position: absolute;
-    justify-content: space-around;
+    
 }
 
-.imagem {
-    justify-content: start;
+.logo-sobre-nos {
+    width: 422.44px;
+    height: 335px;
+    position: absolute;
+    top: 270px;
+    left: 130px;
+    border: 1px;
+}
+
+.container p {
+    width: 469px;
+    height: 336px;
+    font-size: 1.5rem;
+    margin-top: 255px;
+    margin-left: 701px;
     display: flex;
 }
 
-.Sobre_nos_foto {
-    width: 422.44px;
-    height: 335px;
-    justify-content: space-around;
-    margin-top: 270px;
-    margin-left: 130px;
-}
-
-.texto {
-    width: 469px;
-    height: 336px;
-    position: absolute;
-    top: 255px;
-    left: 701px;
-    font-family: "Nunito", sans-serif;
-    font-size: 24px;
-    font-weight: 400px;
-    font-style: normal;
-    color: white;
-    justify-content: space-around;
-    line-height: 28px;
+@media screen and (max-width: 1000px) {
+    .container p {
+        width: 375,2px;
+        height: 268,8px;
+        font-size: 1.2rem;
+        margin-top: 600px;
+        margin-left: 70px;
+        display: block;
+    }
 }
