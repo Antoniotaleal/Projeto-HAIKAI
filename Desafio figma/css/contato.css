@@ -1,10 +1,5 @@
 .body {
-    width: 100%;
-    height: 100%;
     background: #7C8034;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
 }
 
 .logo {
@@ -87,11 +82,12 @@
 footer {
     background-color: #afa96e;
     margin-top: 668px;
-    height: 100px;
     width: 100%;
     position: absolute;
     bottom: 0;
-    left: 0;
+    left:0;
+    right:0;
+    padding-top: 10px;
 }
 
 .paragrafo {
@@ -103,9 +99,10 @@ footer {
     font-family: "Montserrat", sans-serif;
 }
 
-.Facebook {
+.social-icon {
     width: 32px;
     height: 32px;
+    text-decoration: none;
 }
 
 
