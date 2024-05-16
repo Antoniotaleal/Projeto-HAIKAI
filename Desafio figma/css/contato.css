@@ -22,7 +22,7 @@
 .imagem1 {
     width: 150px;
     height: 225px;
-    margin-top: 145px;
+    margin-top: 30px;
     margin-left: 770px;
     position: absolute;
 }
@@ -30,7 +30,7 @@
 .imagem2 {
     width: 150px;
     height: 225px;
-    margin-top: 145px;
+    margin-top: 30px;
     margin-left: 935px;
     position: absolute;
 }
@@ -38,7 +38,7 @@
 .imagem3 {
     width: 150px;
     height: 225px;
-    margin-top: 145px;
+    margin-top: 30px;
     margin-left: 1100px;
     position: absolute;
 }
@@ -46,7 +46,7 @@
 .imagem4 {
     width: 150px;
     height: 225px;
-    margin-top: 385px;
+    margin-top: 270px;
     margin-left: 770px;
     position: absolute;
 }
@@ -54,7 +54,7 @@
 .imagem5 {
     width: 150px;
     height: 225px;
-    margin-top: 385px;
+    margin-top: 270px;
     margin-left: 935px;
     position: absolute;
 }
@@ -62,7 +62,7 @@
 .imagem6 {
     width: 150px;
     height: 225px;
-    margin-top: 385px;
+    margin-top: 270px;
     margin-left: 1100px;
     position: absolute;
 }
@@ -85,9 +85,10 @@ footer {
     width: 100%;
     position: absolute;
     bottom: 0;
-    left:0;
-    right:0;
-    padding-top: 10px;
+    left: 0;
+    right: 0;
+    padding-top: 30px;
+    
 }
 
 .paragrafo {
@@ -105,4 +106,135 @@ footer {
     text-decoration: none;
 }
 
+@media screen and (max-width: 800px) {
+    .logo {
+        width: 120px;
+        height: 28px;
+        margin-right: 0px;
+    }
+    .Siga_nosso_instagram_imagem {
+        width: 370px;
+        height: 75px;
+        display: block;
+        margin-left: 0;
+        margin-top: 231px;
+        position: absolute;
+    }
+    .imagem1 {
+        width: 100px;
+        height: 160px;
+        margin-top:30px;
+        margin-left: 440px;
+        position: absolute;
+    }
+    
+    .imagem2 {
+        width: 100px;
+        height: 160px;
+        margin-top: 30px;
+        margin-left: 550px;
+        position: absolute;
+    }
+    
+    .imagem3 {
+        width: 100px;
+        height: 160px;
+        margin-top: 30px;
+        margin-left: 660px;
+        position: absolute;
+    }
+    
+    .imagem4 {
+        width: 100px;
+        height: 160px;
+        margin-top: 200px;
+        margin-left: 440px;
+        position: absolute;
+    }
+    
+    .imagem5 {
+        width: 100px;
+        height: 160px;
+        margin-top: 200px;
+        margin-left: 550px;
+        position: absolute;
+    }
+    
+    .imagem6 {
+        width: 100px;
+        height: 160px;
+        margin-top: 200px;
+        margin-left: 660px;
+        position: absolute;
+    }
+    .footer {
+        position: absolute;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .logo {
+        width: 120px;
+        height: 28px;
+        margin-right: 0px;
+    }
+    .Siga_nosso_instagram_imagem {
+        width: 370px;
+        height: 75px;
+        display: block;
+        margin-left: 0;
+        margin-top: 231px;
+        position: absolute;
+    }
+    .imagem1 {
+        width: 100px;
+        height: 160px;
+        margin-top:30px;
+        margin-left: 440px;
+        position: absolute;
+    }
+    
+    .imagem2 {
+        width: 100px;
+        height: 160px;
+        margin-top: 30px;
+        margin-left: 550px;
+        position: absolute;
+    }
+    
+    .imagem3 {
+        width: 100px;
+        height: 160px;
+        margin-top: 30px;
+        margin-left: 660px;
+        position: absolute;
+    }
+    
+    .imagem4 {
+        width: 100px;
+        height: 160px;
+        margin-top: 200px;
+        margin-left: 440px;
+        position: absolute;
+    }
+    
+    .imagem5 {
+        width: 100px;
+        height: 160px;
+        margin-top: 200px;
+        margin-left: 550px;
+        position: absolute;
+    }
+    
+    .imagem6 {
+        width: 100px;
+        height: 160px;
+        margin-top: 200px;
+        margin-left: 660px;
+        position: absolute;
+    }
+    .footer {
+        position: absolute;
+    }
+}
 
