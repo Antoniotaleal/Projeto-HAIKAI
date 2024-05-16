@@ -20,7 +20,6 @@
     height: 70px;
     top: 143px;
     position: absolute;
-    
 }
 
 .logo-sobre-nos {
@@ -36,9 +35,10 @@
     width: 469px;
     height: 336px;
     font-size: 1.5rem;
-    margin-top: 255px;
+    margin-top: 200px;
     margin-left: 701px;
     display: flex;
+    font-weight: 400px;
 }
 
 @media screen and (max-width: 1000px) {

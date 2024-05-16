@@ -1,0 +1,111 @@
+.body {
+    width: 100%;
+    height: 100%;
+    background: #7C8034;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 150px;
+    height: 35px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    margin-right: 20px;
+}
+
+.redes_sociais {
+    display: flex;
+    width: 400px;
+    height: 70px;
+    top: 143px;
+    position: absolute;
+}
+
+.imagem1 {
+    width: 150px;
+    height: 225px;
+    margin-top: 145px;
+    margin-left: 770px;
+    position: absolute;
+}
+
+.imagem2 {
+    width: 150px;
+    height: 225px;
+    margin-top: 145px;
+    margin-left: 935px;
+    position: absolute;
+}
+
+.imagem3 {
+    width: 150px;
+    height: 225px;
+    margin-top: 145px;
+    margin-left: 1100px;
+    position: absolute;
+}
+
+.imagem4 {
+    width: 150px;
+    height: 225px;
+    margin-top: 385px;
+    margin-left: 770px;
+    position: absolute;
+}
+
+.imagem5 {
+    width: 150px;
+    height: 225px;
+    margin-top: 385px;
+    margin-left: 935px;
+    position: absolute;
+}
+
+.imagem6 {
+    width: 150px;
+    height: 225px;
+    margin-top: 385px;
+    margin-left: 1100px;
+    position: absolute;
+}
+
+.Siga_nosso_instagram_imagem {
+    width: 463px;
+    height: 94px;
+    margin-top: 330px;
+    margin-left: 150px;
+}
+
+.logo_rodapé {
+    width: 150px;
+    height: 35px;
+}
+
+footer {
+    background-color: #afa96e;
+    margin-top: 668px;
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.paragrafo {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+}
+.copy {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+}
+
+.Facebook {
+    width: 32px;
+    height: 32px;
+}
+
+
